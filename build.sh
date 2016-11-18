@@ -1,1 +1,1 @@
-docker build -t meteorhacks:mup-ssl-server ./
+docker build -t artpolikarpov:mup-ssl-server ./
